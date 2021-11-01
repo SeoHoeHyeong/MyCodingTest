@@ -26,4 +26,4 @@ public class 최댓값 {
 		System.out.print(point);
 	}
 
-}
+} 
