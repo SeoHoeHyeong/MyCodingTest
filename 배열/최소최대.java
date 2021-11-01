@@ -32,5 +32,5 @@ public class 최소최대 {
 			}
 		}
 		System.out.println(min + " " + max);
-	}
+	} 
 }
